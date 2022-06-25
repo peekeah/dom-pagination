@@ -1,0 +1,39 @@
+*{
+  color: white;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+body {
+    background-color: lightgray;
+}
+
+button {
+  background-color: rgb(125 125 125);
+  border-radius: 0.5rem;
+}
+.container {
+    background: linear-gradient(to right, rgb(83, 105, 118), rgb(41, 46, 73));
+    border-radius: 1.5rem;
+}
+
+
+#title {
+  margin: 0em;
+  text-align: center;
+}
+
+.table-responsive {
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  padding: 1.2rem;
+  border-radius: 0.7em;
+  min-width: 20rem;
+  margin: 0.7em;
+}
+
+.user-list {
+    justify-content: center;
+  }
